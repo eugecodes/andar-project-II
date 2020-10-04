@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ormnocr\Desktop\AndARSampleProject1\app\src\main\jniLibs\AndAR.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="70bcbdc54eb49d7a3fbb255b93a010cbd4fce473">
+        <dex dex="C:\Users\ormnocr\Desktop\AndARSampleProject1\app\build\intermediates\pre-dexed\debug\AndAR-8ead797ca25b821b6e4e39ea60541badbf7dc409.jar" />
+    </item>
+
+</items>
